@@ -1,0 +1,34 @@
+# Keep the curated toolkit/.codex and results/.ai_paper_validation files tracked.
+
+# Excluded personal, human-review, and manuscript materials.
+**/review_records/
+**/human_adjudication*/
+**/ignorance_documents/
+**/paper_writting/
+**/review_packets/
+**/followup_*/
+.claude/
+
+# The original article PDFs and supplementary workbook are intentionally tracked.
+
+# Recreated caches and temporary environments.
+**/document_outputs/
+# Selected records and one image under preprocessing/extraction are linked by HTML.
+**/tooling/venv/
+**/tooling/pip-cache/
+**/__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+*:Zone.Identifier
+~$*
+
+# Explicitly requested completed workbooks and their guide.
+!/human_adjudication/
+/human_adjudication/*
+!/human_adjudication/README.md
+!/human_adjudication/human_adjudication_v_2_4_1_2018_R_Bulun_completed.xlsx
+!/human_adjudication/human_adjudication_v_2_4_1_2019_R_Bulun_completed.xlsx
+!/human_adjudication/human_adjudication_v_2_4_1_2024_R_Bulun_completed.xlsx
+!/human_adjudication/human_adjudication_v_2_4_1_2025_R_Bulun_completed.xlsx

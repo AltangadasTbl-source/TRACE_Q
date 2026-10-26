@@ -1,0 +1,111 @@
+{
+  "status": "PASS_WITH_DOCUMENTED_SECONDARY_RECORD_OMISSIONS",
+  "checked_at_utc": "2026-10-26T05:01:13.964392+00:00",
+  "copied_files": 1454,
+  "copied_source_bytes": 275283424,
+  "copied_destination_bytes": 275286604,
+  "toolkit_files": 28,
+  "agent_presets": 10,
+  "packages": 44,
+  "canonical_candidates": 440,
+  "source_inputs_hash_verified_and_bundled": 189,
+  "source_input_types": {
+    "pdf": 188,
+    "xlsx": 1
+  },
+  "source_pdf_pages": 5559,
+  "additional_html_dependencies": {
+    "markdown": 57,
+    "json": 3,
+    "image": 1
+  },
+  "all_source_and_destination_hashes_verified": true,
+  "previously_copied_scientific_content_unchanged": true,
+  "html_navigation_only_copies_modified": 5,
+  "missing_html_anchors_repaired": 53,
+  "historical_report_text_unchanged": true,
+  "final_html_reports_checked": 44,
+  "final_html_local_file_links_checked": 5100,
+  "final_html_original_source_links_checked": 3952,
+  "final_html_pdf_page_fragments_checked": 3948,
+  "final_html_internal_anchors_checked": 1311,
+  "final_html_broken_local_file_links": 0,
+  "final_html_invalid_pdf_page_fragments": 0,
+  "final_html_invalid_internal_anchors": 0,
+  "secondary_record_omitted_links": 43,
+  "omitted_link_reasons": {
+    "excluded_record_or_cache": 40,
+    "preexisting_malformed_math_reference": 2,
+    "excluded_user_record": 1
+  },
+  "python_syntax_checked": 5,
+  "toml_files_parsed": 12,
+  "scientific_workflow_rerun": false,
+  "human_adjudication_included": true,
+  "external_urls_checked": false,
+  "browser_rendering_tested": false,
+  "generated_support_files_sha256": {
+    "README.md": "556e8ed39548d4952847b4f875e09153c05e66c080c1acb501dbc47cf9491dbb",
+    ".gitignore": "9f0585832a6608230bb02fe6f5b60877526693b2306319afe5e739997baf8aa6",
+    "DATA_AVAILABILITY.md": "79dbc6571156556da57320515b51bb5ee519bb93feec6b30b620330c79c8bafc",
+    "COPY_NOTES.md": "b1bedc7e833b709f77aaade76971059eb3ff0966b208143ff8fb3912ac7abf1d",
+    "results/README.md": "d8616362d49849218c31da3f877585dcdacb3289ad69c755a65dccd3b3800374",
+    "migration_manifest.csv": "fbbdb3d3c08e38baf1e8040f5d2dcac2e106e466ea2897462f658e98d3f912b5",
+    "results/index.csv": "60e88f8f13696e62feb9b3182bfbe62198c1e8965ca4ef7ba21ce84619058172",
+    "results/source_files.csv": "1cd7718d3107a335c3783529a94c876ceecd05e2bafda7222e2da52f7f19e984",
+    "results/omitted_links.csv": "e7599c404f5586ec79cf79dd0ab8638708bf284c4468857c5d6e0eaf797fee0f",
+    "results/html_navigation_fixes.csv": "8654671f5d1e936cdf132952515cf2a7ab0bc38009ae2696846665421ea56497",
+    "human_adjudication/README.md": "4a46824f3bf1fd2d251803cf3c015c7238a07ba52772388051142c3d7364c70a"
+  },
+  "documentation_asset_check_at_utc": "2026-10-26T05:04:38.857723+00:00",
+  "requested_documentation_assets": [
+    {
+      "path": "assets/workflow_1_6_2_EN_tall.png",
+      "source_relative_path": "paper_writting/main/slides/workflow_1_6_2_EN_tall.png",
+      "sha256": "52e0c1c16871c5e4cbc6ea137c933e0cf777b7092e562fcec51790581fdb6c3f",
+      "width": 3015,
+      "height": 9355,
+      "readme_embedded": true,
+      "source_exclusion_exception_explicitly_requested": true
+    }
+  ],
+  "excluded_material_absent_except_explicitly_requested_files": true,
+  "human_adjudication_copy_checked_at_utc": "2026-10-26T05:08:55.406817+00:00",
+  "completed_adjudication_workbooks": [
+    {
+      "year": "2018",
+      "path": "human_adjudication/human_adjudication_v_2_4_1_2018_R_Bulun_completed.xlsx",
+      "source_relative_path": "human_adjudication/human_adjudication_v_2_4_1_2018_R_Bulun_completed.xlsx",
+      "sha256": "3b65614ae372f13491b34ffed9f3971ffe44dce31ec0d8d2d4e0d5129da2e20e",
+      "bytes": 98145,
+      "paper_worksheets_matched": 10
+    },
+    {
+      "year": "2019",
+      "path": "human_adjudication/human_adjudication_v_2_4_1_2019_R_Bulun_completed.xlsx",
+      "source_relative_path": "human_adjudication/human_adjudication_v_2_4_1_2019_R_Bulun_completed.xlsx",
+      "sha256": "e7a0564c27f5ba4af4cc28393b76965d59bc4da3335ca44d7d70a4bd95490066",
+      "bytes": 77337,
+      "paper_worksheets_matched": 9
+    },
+    {
+      "year": "2024",
+      "path": "human_adjudication/human_adjudication_v_2_4_1_2024_R_Bulun_completed.xlsx",
+      "source_relative_path": "human_adjudication/human_adjudication_v_2_4_1_2024_R_Bulun_completed.xlsx",
+      "sha256": "d71a5b4e9ee5a4c6cb4f95a9badca5a6075753d3f80abf21ebd1a369bba1351b",
+      "bytes": 95431,
+      "paper_worksheets_matched": 10
+    },
+    {
+      "year": "2025",
+      "path": "human_adjudication/human_adjudication_v_2_4_1_2025_R_Bulun_completed.xlsx",
+      "source_relative_path": "human_adjudication/human_adjudication_v_2_4_1_2025_R_Bulun_completed.xlsx",
+      "sha256": "4cebb6334afacc576b8e9abe24ece7c2f884165dbdeb8fe040237b4c5a399671",
+      "bytes": 119352,
+      "paper_worksheets_matched": 15
+    }
+  ],
+  "completed_workbook_zip_integrity": "PASS",
+  "completed_workbook_paper_worksheets_matched": 44,
+  "adjudication_decisions_reassessed": false
+}
